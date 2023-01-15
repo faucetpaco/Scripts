@@ -20,6 +20,6 @@ Afficher l'adresse IP publique sur votre webhook
 
 3 - redirige le contenu de "test.txt" dans notre webhook
 
-4 - efface le fichier test.txt
+4 - supprime le fichier test.txt
 
 5 - ferme la fenêtre powershell
