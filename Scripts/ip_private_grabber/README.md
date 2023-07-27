@@ -16,7 +16,7 @@ Affiche en détails toutes les configurations réseau de votre carte sur votre w
 
 2 - fais la commande "ipconfig /all" et l'enregistre dans un fichier TXT du nom de "test.txt"
 
-3 - redirige le contenu de "test.txt" dans notre webhook
+3 - redirige le contenu de "test.txt" dans le webhook
 
 4 - supprime le fichier test.txt
 
