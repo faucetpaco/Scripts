@@ -18,7 +18,7 @@ Afficher l'adresse IP publique sur votre webhook
 
 2 - fais une requête sur le site https://ifconfig.me/ip et l'enregistre dans un fichier TXT du nom de "test.txt"
 
-3 - redirige le contenu de "test.txt" dans notre webhook
+3 - redirige le contenu de "test.txt" dans le webhook
 
 4 - supprime le fichier test.txt
 
